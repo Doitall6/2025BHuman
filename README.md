@@ -2,7 +2,7 @@
 
 ## 环境准备与部署步骤
 
-### 1. 克隆2025代码
+### 1. 克隆2025代码（过程中报错的话换个节点试试）
 
 ```bash
 git clone --recursive https://github.com/bhuman/BHumanCodeRelease.git
