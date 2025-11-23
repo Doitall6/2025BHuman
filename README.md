@@ -79,6 +79,7 @@ sudo ./flash ../Build/Image/Develop/bhuman.opn /dev/sda
 ```
 
 ---
+## 修改代码后要删除Build文件夹然后重新编译，编译之后不用制作刷机盘，deploy脚本会更新，直接部署到机器人就行
 
 ## 注意事项
 
