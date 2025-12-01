@@ -12,7 +12,7 @@ cd BHumanCodeRelease
 ### 2. 下载createRobot.sh到主目录
 
 ```bash
-wget http://212.64.83.115:5244/d/ye/createRobot.sh
+wget http://212.64.83.115:5244/d/ye/createRobot.sh?sign=4Bl3ulmtewVjOmyeVI1TB4ve06RXNiaIyVAVsJQuyDQ=:0
 chmod +x createRobot.sh
 ```
 
